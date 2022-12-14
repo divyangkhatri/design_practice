@@ -1,5 +1,5 @@
 import React from 'react';
-import {SafeAreaView, StyleSheet, Text, ScrollView} from 'react-native';
+import { SafeAreaView, StyleSheet, Text, ScrollView } from 'react-native';
 import {
   DEFAULT_PADDING,
   FONT_FAMILY,

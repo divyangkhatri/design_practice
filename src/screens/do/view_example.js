@@ -13,7 +13,7 @@ import {
   FONT_SIZE,
 } from '../../constants/constants';
 
-const ViewExample = ({navigation}) => {
+const ViewExample = ({ navigation }) => {
   return (
     <SafeAreaView style={styles.safeAreaView}>
       <View style={styles.mainView}>
